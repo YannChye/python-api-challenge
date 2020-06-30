@@ -1,5 +1,5 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+# GitIgnore
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+api_keys.py
